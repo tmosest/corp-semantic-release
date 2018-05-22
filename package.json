@@ -1,5 +1,6 @@
 {
   "name": "corp-semantic-release",
+  "version": "0.0.0",
   "description": "Semantic-release package for repositories inside private networks (e.g. corporations) or for non-GitHub repositories.",
   "keywords": [
     "author",
